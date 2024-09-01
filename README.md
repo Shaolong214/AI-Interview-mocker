@@ -1,8 +1,8 @@
 Visit the live application at [ai-interview-mocker-sage.vercel.app](https://ai-interview-mocker-sage.vercel.app).
 
-# EvAI Interview Coach
+# AIY Interview Coach
 
-Welcome to **EvAI Interview Coach**! This application, named after Evans, leverages cutting-edge technologies to provide users with AI-driven mock interviews, helping them prepare effectively for real-world interviews. Built with Next.js, React, Drizzle ORM, and powered by Google Gemini AI, this platform ensures a seamless and interactive user experience.
+Welcome to **AIY Interview Coach**! This application, named after Evans, leverages cutting-edge technologies to provide users with AI-driven mock interviews, helping them prepare effectively for real-world interviews. Built with Next.js, React, Drizzle ORM, and powered by Google Gemini AI, this platform ensures a seamless and interactive user experience.
 
 Table of Contents
 -----------------
